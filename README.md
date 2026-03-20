@@ -58,8 +58,8 @@ python generate_data.py
 
 ```powershell
 python etl_pipeline.py
-Проверьте результаты в папке output/.
 ```
+Проверьте результаты в папке output/.
 
 ## Как это работает (подробно)
 ### 1. Генерация данных (generate_data.py)
